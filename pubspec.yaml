@@ -4,7 +4,7 @@ version: 2.0.4
 homepage: https://github.com/mylisabox/flutter_mjpeg
 
 environment:
-  sdk: ">=3.5.0 <4.0.0"
+  sdk: ">=3.6.0 <4.0.0"
   flutter: ">=3.24.0"
 
 dependencies:
